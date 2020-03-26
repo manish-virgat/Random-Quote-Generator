@@ -20,6 +20,18 @@ const quotes = [
         quote:'Nelson Mandela'
     },
     {
+        name:'It does not matter how slowly you go so long as you do not stop.',
+        quote:'Confucius'
+    },
+    {
+        name:'author number 6',
+        quote:'quote number 6'
+    },
+    {
+        name:'author number 6',
+        quote:'quote number 6'
+    },
+    {
         name:'author number 6',
         quote:'quote number 6'
     }
