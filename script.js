@@ -16,8 +16,8 @@ const quotes = [
         quote:'Benjamin Franklin'
     },
     {
-        name:'author number 5',
-        quote:'quote number 5'
+        name:'It always seems impossible until it’s done.',
+        quote:'Nelson Mandela'
     },
     {
         name:'author number 6',
