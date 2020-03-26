@@ -24,8 +24,8 @@ const quotes = [
         quote:'Confucius'
     },
     {
-        name:'author number 6',
-        quote:'quote number 6'
+        name:'The best way to predict your future is to create it.',
+        quote:'Abraham Lincoln'
     },
     {
         name:'author number 6',
