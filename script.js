@@ -36,8 +36,8 @@ const quotes = [
         quote:'Charlie Chaplin'
     },
     {
-        name:'author number 6',
-        quote:'quote number 6'
+        name:'Knowing is not enough; we must apply. Willing is not enough; we must do.',
+        quote:'Bruce Lee'
     },
     {
         name:'author number 6',
