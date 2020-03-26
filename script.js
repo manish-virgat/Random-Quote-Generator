@@ -28,8 +28,8 @@ const quotes = [
         quote:'Abraham Lincoln'
     },
     {
-        name:'author number 6',
-        quote:'quote number 6'
+        name:'We don’t want to tell our dreams. We want to show them.',
+        quote:'Cristiano Ronaldo'
     },
     {
         name:'author number 6',
