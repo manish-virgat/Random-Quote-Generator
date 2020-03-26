@@ -8,8 +8,8 @@ const quotes = [
         quote:'Malcolm X'
     },
     {
-        name:'author number 3',
-        quote:'quote number 3'
+        name:'Don’t count the days, make the days count.',
+        quote:'Muhammad Ali'
     },
     {
         name:'author number 4',
