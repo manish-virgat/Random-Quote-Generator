@@ -1,7 +1,7 @@
 const quotes = [
     {
-        name:'author number 1',
-        quote:'quote number 1'
+        name:'I have no special talent. I am only passionately curious.',
+        quote:'Albert Einstein'
     },
     {
         name:'author number 2',
