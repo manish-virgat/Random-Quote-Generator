@@ -39,7 +39,7 @@ const quotes = [
         name:'Knowing is not enough; we must apply. Willing is not enough; we must do.',
         quote:'Bruce Lee'
     },
-    {
+    /*{
         name:'author number 6',
         quote:'quote number 6'
     },
@@ -58,7 +58,7 @@ const quotes = [
     {
         name:'author number 6',
         quote:'quote number 6'
-    }
+    }*/
 ]
 const quoteBtn = document.querySelector('#quoteBtn');
 const quoteAuthor = document.querySelector('#quoteAuthor');
