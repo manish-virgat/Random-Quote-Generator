@@ -4,8 +4,8 @@ const quotes = [
         quote:'Albert Einstein'
     },
     {
-        name:'author number 2',
-        quote:'quote number 2'
+        name:'The future belongs to those who prepare for it today.',
+        quote:'Malcolm X'
     },
     {
         name:'author number 3',
