@@ -32,8 +32,8 @@ const quotes = [
         quote:'Cristiano Ronaldo'
     },
     {
-        name:'author number 6',
-        quote:'quote number 6'
+        name:'You’ll never find a rainbow if you’re looking down.',
+        quote:'Charlie Chaplin'
     },
     {
         name:'author number 6',
