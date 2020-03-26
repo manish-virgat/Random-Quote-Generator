@@ -34,6 +34,30 @@ const quotes = [
     {
         name:'author number 6',
         quote:'quote number 6'
+    },
+    {
+        name:'author number 6',
+        quote:'quote number 6'
+    },
+    {
+        name:'author number 6',
+        quote:'quote number 6'
+    },
+    {
+        name:'author number 6',
+        quote:'quote number 6'
+    },
+    {
+        name:'author number 6',
+        quote:'quote number 6'
+    },
+    {
+        name:'author number 6',
+        quote:'quote number 6'
+    },
+    {
+        name:'author number 6',
+        quote:'quote number 6'
     }
 ]
 const quoteBtn = document.querySelector('#quoteBtn');
