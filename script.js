@@ -12,8 +12,8 @@ const quotes = [
         quote:'Muhammad Ali'
     },
     {
-        name:'author number 4',
-        quote:'quote number 4'
+        name:'Well done is better than well said.',
+        quote:'Benjamin Franklin'
     },
     {
         name:'author number 5',
