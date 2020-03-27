@@ -64,8 +64,8 @@ const quotes = [
         name:'Lao Tzu'
     },
     {
-        quote:'Quote Here',
-        name:'Author Name'
+        quote:'I am thankful for all of those who said NO to me. It’s because of them I’m doing it myself.',
+        name:'Albert Einstein'
     },
     {
         quote:'Quote Here',
