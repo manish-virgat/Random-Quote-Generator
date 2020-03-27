@@ -52,8 +52,8 @@ const quotes = [
         name:'John F. Kennedy'
     },
     {
-        quote:'author number 6',
-        name:'quote number 6'
+        quote:'Don’t worry about failures, worry about the chances you miss when you don’t even try.',
+        name:'Jack Canfield'
     },
     {
         quote:'author number 6',
