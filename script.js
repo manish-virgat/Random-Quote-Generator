@@ -55,10 +55,26 @@ const quotes = [
         quote:'Don’t worry about failures, worry about the chances you miss when you don’t even try.',
         name:'Jack Canfield'
     },
+    /*{
+        quote:'Quote Here',
+        name:'Author Name'
+    },
     {
-        quote:'author number 6',
-        name:'quote number 6'
-    }*/
+        quote:'Quote Here',
+        name:'Author Name'
+    },
+    {
+        quote:'Quote Here',
+        name:'Author Name'
+    },
+    {
+        quote:'Quote Here',
+        name:'Author Name'
+    },
+    {
+        quote:'Quote Here',
+        name:'Author Name'
+    },*/
 ]
 const quoteBtn = document.querySelector('#quoteBtn');
 const quote = document.querySelector('#quote');
