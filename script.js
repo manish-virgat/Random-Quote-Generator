@@ -44,8 +44,8 @@ const quotes = [
         name:'Dennis P. Kimbro'
     },
     {
-        quote:'author number 6',
-        name:'quote number 6'
+        quote:'Live each day as if your life had just begun.',
+        name:'Johann Wolfgang Von Goethe'
     },
     {
         quote:'author number 6',
