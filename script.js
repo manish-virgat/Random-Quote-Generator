@@ -48,8 +48,8 @@ const quotes = [
         name:'Johann Wolfgang Von Goethe'
     },
     {
-        quote:'author number 6',
-        name:'quote number 6'
+        quote:'If not us, who? If not now, when?',
+        name:'John F. Kennedy'
     },
     {
         quote:'author number 6',
