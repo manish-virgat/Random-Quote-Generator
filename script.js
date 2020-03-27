@@ -71,6 +71,26 @@ const quotes = [
         quote:'We become what we think about.',
         name:'Earl Nightingale'
     },
+    /*{
+        quote:'Quote Here',
+        name:'Author Name'
+    },
+    {
+        quote:'Quote Here',
+        name:'Author Name'
+    },
+    {
+        quote:'Quote Here',
+        name:'Author Name'
+    },
+    {
+        quote:'Quote Here',
+        name:'Author Name'
+    },
+    {
+        quote:'Quote Here',
+        name:'Author Name'
+    },
     {
         quote:'Quote Here',
         name:'Author Name'
