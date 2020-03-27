@@ -39,9 +39,9 @@ const quotes = [
         quote:'Knowing is not enough; we must apply. Willing is not enough; we must do.',
         name:'Bruce Lee'
     },
-    /*{
-        quote:'author number 6',
-        name:'quote number 6'
+    {
+        quote:'Life is 10% what happens to us and 90% how we react to it.',
+        name:'Dennis P. Kimbro'
     },
     {
         quote:'author number 6',
