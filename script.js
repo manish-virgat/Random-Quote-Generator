@@ -1,73 +1,73 @@
 const quotes = [
     {
-        name:'I have no special talent. I am only passionately curious.',
-        quote:'Albert Einstein'
+        quote:'I have no special talent. I am only passionately curious.',
+        name:'Albert Einstein'
     },
     {
-        name:'The future belongs to those who prepare for it today.',
-        quote:'Malcolm X'
+        quote:'The future belongs to those who prepare for it today.',
+        name:'Malcolm X'
     },
     {
-        name:'Don’t count the days, make the days count.',
-        quote:'Muhammad Ali'
+        quote:'Don’t count the days, make the days count.',
+        name:'Muhammad Ali'
     },
     {
-        name:'Well done is better than well said.',
-        quote:'Benjamin Franklin'
+        quote:'Well done is better than well said.',
+        name:'Benjamin Franklin'
     },
     {
-        name:'It always seems impossible until it’s done.',
-        quote:'Nelson Mandela'
+        quote:'It always seems impossible until it’s done.',
+        name:'Nelson Mandela'
     },
     {
-        name:'It does not matter how slowly you go so long as you do not stop.',
-        quote:'Confucius'
+        quote:'It does not matter how slowly you go so long as you do not stop.',
+        name:'Confucius'
     },
     {
-        name:'The best way to predict your future is to create it.',
-        quote:'Abraham Lincoln'
+        quote:'The best way to predict your future is to create it.',
+        name:'Abraham Lincoln'
     },
     {
-        name:'We don’t want to tell our dreams. We want to show them.',
-        quote:'Cristiano Ronaldo'
+        quote:'We don’t want to tell our dreams. We want to show them.',
+        name:'Cristiano Ronaldo'
     },
     {
-        name:'You’ll never find a rainbow if you’re looking down.',
-        quote:'Charlie Chaplin'
+        quote:'You’ll never find a rainbow if you’re looking down.',
+        name:'Charlie Chaplin'
     },
     {
-        name:'Knowing is not enough; we must apply. Willing is not enough; we must do.',
-        quote:'Bruce Lee'
+        quote:'Knowing is not enough; we must apply. Willing is not enough; we must do.',
+        name:'Bruce Lee'
     },
     /*{
-        name:'author number 6',
-        quote:'quote number 6'
+        quote:'author number 6',
+        name:'quote number 6'
     },
     {
-        name:'author number 6',
-        quote:'quote number 6'
+        quote:'author number 6',
+        name:'quote number 6'
     },
     {
-        name:'author number 6',
-        quote:'quote number 6'
+        quote:'author number 6',
+        name:'quote number 6'
     },
     {
-        name:'author number 6',
-        quote:'quote number 6'
+        quote:'author number 6',
+        name:'quote number 6'
     },
     {
-        name:'author number 6',
-        quote:'quote number 6'
+        quote:'author number 6',
+        name:'quote number 6'
     }*/
 ]
 const quoteBtn = document.querySelector('#quoteBtn');
-const quoteAuthor = document.querySelector('#quoteAuthor');
 const quote = document.querySelector('#quote');
+const quoteAuthor = document.querySelector('#quoteAuthor');
 quoteBtn.addEventListener('click', displayQuote);
 
 function displayQuote()
 {
     let number = Math.floor(Math.random()*quotes.length);
-    quoteAuthor.innerHTML = quotes[number].name;
     quote.innerHTML = quotes[number].quote;
+    quoteAuthor.innerHTML = quotes[number].name;
 }
