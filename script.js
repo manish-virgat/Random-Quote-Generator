@@ -54,7 +54,7 @@ const quotes = [
     {
         quote:'Don’t worry about failures, worry about the chances you miss when you don’t even try.',
         name:'Jack Canfield'
-    },
+    }
     /*{
         quote:'Quote Here',
         name:'Author Name'
