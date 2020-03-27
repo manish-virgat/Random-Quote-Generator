@@ -60,8 +60,8 @@ const quotes = [
         name:'William Shakespeare'
     },
     {
-        quote:'Quote Here',
-        name:'Author Name'
+        quote:'The journey of a thousand miles begins with one step.',
+        name:'Lao Tzu'
     },
     {
         quote:'Quote Here',
