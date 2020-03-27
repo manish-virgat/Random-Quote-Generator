@@ -68,8 +68,8 @@ const quotes = [
         name:'Albert Einstein'
     },
     {
-        quote:'Quote Here',
-        name:'Author Name'
+        quote:'We become what we think about.',
+        name:'Earl Nightingale'
     },
     {
         quote:'Quote Here',
